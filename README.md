@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/mmdbzr/mmdbzr/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mmdbzr/mmdbzr/output/snake.svg" alt="Snake animation" />
 
 ###
