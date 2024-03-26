@@ -43,7 +43,8 @@
   <a href="https://www.instagram.com/mohammadbozrgmehr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833ab4&logoColor=white&labelColor=833ab4&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mohammad.bzr82@gmail.com" target="_blank">
+  <a href="mohammad.bzr82@gmail.com
+" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-bozorgmehr-743a942a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
